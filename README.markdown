@@ -34,3 +34,9 @@ RcsvExtract expects to find a CSV header in the first line and per default prese
 ## Roadmap
 
 * `no_header` parameter set: `generate_indices` needs to include _line 0_ instead of ignoring it. Move `no_header` switch from `generate_subset` to `generate_indices` to make it happen.
+
+## Copyright
+
+Copyright (c) 2010 Julian Schrader, http://julianschrader.com
+
+See LICENSE for details.
